@@ -1,21 +1,21 @@
 const YouTube = require('youtube-node')
-const { map } = require('ramda')
+const { map, curry } = require('ramda')
 const youTube = new YouTube()
 
-function connect(apiKey) {
+function connectFn(youtube, apiKey) {
   return new Promise((resolve, reject) => {
-    youTube.setKey(apiKey)
+    youtube.setKey(apiKey)
     resolve('successfully connected to Youtube')
   })
 }
 
-function search(channelId) {
+function searchFn(youtube, channelId) {
   return new Promise((resolve, reject) => {
     const params = {
       channelId,
       order: 'date'
     }
-    youTube.search('', 50, params, (error, result) => {
+    youtube.search('', 50, params, (error, result) => {
       if (error) {
         console.error('failed to search', error)
         reject(error)
@@ -38,7 +38,9 @@ function extract(input) {
 }
 
 module.exports = {
-  connect,
-  search,
+  connect: curry(connectFn)(youTube),
+  connectFn,
+  search: curry(searchFn)(youTube),
+  searchFn,
   extract
 }
