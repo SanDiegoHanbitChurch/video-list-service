@@ -1,0 +1,177 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/9VF3ZHblpLmtEWnDB9VL5-A9Tyg\"",
+ "nextPageToken": "CAUQAA",
+ "regionCode": "US",
+ "pageInfo": {
+  "totalResults": 267,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/_gFwpLDcGly2Kl_vrho37ev75rs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WXqopaAect8"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-06T16:42:31.000Z",
+    "channelId": "UCMWocSqi2Y84m9gruyR_6DQ",
+    "title": "\"하나님 나라는 이런 자의 것\" - 정수일 목사",
+    "description": "누가복음 18장 15절 - 30절.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WXqopaAect8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WXqopaAect8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WXqopaAect8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanbit Church",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/A28-POTRA2qmL_MFa42VAuEPt2Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TE3hfcRAjGY"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-27T02:53:04.000Z",
+    "channelId": "UCMWocSqi2Y84m9gruyR_6DQ",
+    "title": "\"의롭다 하심을 받는 성도\" - 정수일 목사",
+    "description": "누가복음 18장 9절 -14절.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TE3hfcRAjGY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TE3hfcRAjGY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TE3hfcRAjGY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanbit Church",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/2RP6IyCarKE8HVX3j13HymfuxTU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rrcHpvGmcAg"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-20T12:41:43.000Z",
+    "channelId": "UCMWocSqi2Y84m9gruyR_6DQ",
+    "title": "\"항상 기도하고\" - 정수일 목사",
+    "description": "누가복음 18장 1절-8절.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rrcHpvGmcAg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rrcHpvGmcAg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rrcHpvGmcAg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanbit Church",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/D3OCCvn2gnL53QR3onKrj-Xoa84\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yZeZE6GIDvU"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-13T16:36:07.000Z",
+    "channelId": "UCMWocSqi2Y84m9gruyR_6DQ",
+    "title": "\"하나님의 나라는......\" - 정수일 목사",
+    "description": "누가복음 17장 20절 - 37절.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yZeZE6GIDvU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yZeZE6GIDvU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yZeZE6GIDvU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanbit Church",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/T_xKL0uk59kWGSzkycfcuTG3EUs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dV5pL7f_MMw"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-07T06:16:48.000Z",
+    "channelId": "UCMWocSqi2Y84m9gruyR_6DQ",
+    "title": "\"관심의 우선순위\" - 정수일 목사",
+    "description": "누가복음 17장 11절 - 19절.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dV5pL7f_MMw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dV5pL7f_MMw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dV5pL7f_MMw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanbit Church",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "video-list-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanDiegoHanbitChurch/video-list-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanDiegoHanbitChurch/video-list-service/issues"
+  },
+  "homepage": "https://github.com/SanDiegoHanbitChurch/video-list-service#readme",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "ramda": "^0.24.1",
+    "youtube-node": "^1.3.2"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
