@@ -7,8 +7,7 @@ ENV HOME=/home/app
 WORKDIR $HOME
 COPY package.json $HOME/
 
-RUN echo //registry.npmjs.org/:_authToken=24bdafbb-afed-46d0-a7f1-000011ada46b >> $HOME/.npmrc  &&\
-  npm install
+npm install
 
 COPY index.js $HOME/index.js
 COPY youtube $HOME/youtube
