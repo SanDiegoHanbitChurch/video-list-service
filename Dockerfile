@@ -7,7 +7,7 @@ ENV HOME=/home/app
 WORKDIR $HOME
 COPY package.json $HOME/
 
-npm install
+RUN npm install
 
 COPY index.js $HOME/index.js
 COPY youtube $HOME/youtube
