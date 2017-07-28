@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Route
+metadata:
+  name: video-list-route
+spec:
+  # host: www.example.com
+  to:
+    kind: Service
+    name: video-list-service
